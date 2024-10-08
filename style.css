@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+body{
+    background-color: aqua;
+}
+
+h1{
+    background-color: lawngreen;
+    text-align: center;
+    border-radius: 40px;
+    box-shadow: 10px 10px 10px black;
+}
+
+h2{
+
+    box-shadow: 5px 5px 5px black;
+}
+
